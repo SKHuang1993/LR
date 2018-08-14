@@ -1,0 +1,7 @@
+{
+  "name": "@yqf/nav-bar",
+  "version": "1.0.0",
+  "description": "navbar",
+  "main": "./index.js"
+
+}

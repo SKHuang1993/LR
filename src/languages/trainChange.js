@@ -1,0 +1,37 @@
+
+export default {
+    zh_CN: {
+        change_returnTicket:'退票',
+        change_changeTicket:'改签',
+        costCalculating:'费用计算中...',
+        change_changeCost:'经计算本次改签的费用为:',
+        change_returnCost:'经计算本次退票的费用为:',
+        change_costResult:'退票成功后将扣除退票费并将剩余票数原路返回',
+        change_more48:'可改签预售期内的车次',
+        change_less48:'可改签至票面当天24：00之前任意车次，不办理票面日期次日及以后的改签。',
+        change_costChangeResult:'\n新车票票价低于原车票的，退还差额，对差额部分核收退票费并执行现行退票费标准。\n新车票票价高于原车票的，先收取新车票票款，对原车票票款核收退票费并执行现行改签费标准。',
+        change_changeFail:'很抱歉，您所提交的改签申请，改签失败，请重新提交！  ',
+        change_changeSpend:'改签费用',
+        change_changeing:'改签中',
+        change_changeSuccess:'改签成功',
+        change_refund:'退款完成',
+        change_returnRemind:'您的退票申请已提交,请稍后查看申请结果!',
+    },
+    en_US: {
+        change_returnTicket:'退票',
+        change_changeTicket:'改签',
+        costCalculating:'费用计算中...',
+        change_changeCost:'经计算本次改签的费用为:',
+        change_returnCost:'经计算本次退票的费用为:',
+        change_costResult:'退票成功后将扣除退票费并将剩余票数原路返回',
+        change_more48:'可改签预售期内的车次',
+        change_less48:'可改签至票面当天24：00之前任意车次，不办理票面日期次日及以后的改签。',
+        change_costChangeResult:'\n新车票票价低于原车票的，退还差额，对差额部分核收退票费并执行现行退票费标准。\n新车票票价高于原车票的，先收取新车票票款，对原车票票款核收退票费并执行现行改签费标准。',
+        change_changeFail:'很抱歉，您所提交的改签申请，改签失败，请重新提交！  ',
+        change_changeSpend:'改签费用',
+        change_changeing:'改签中',
+        change_changeSuccess:'改签成功',
+        change_refund:'退款完成',
+        change_returnRemind:'您的退票申请已提交,请稍后查看申请结果!',
+    }
+}

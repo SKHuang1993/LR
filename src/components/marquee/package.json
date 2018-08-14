@@ -1,0 +1,7 @@
+{
+  "name": "@yqf/marquee",
+  "version": "1.0.0",
+  "description": "marquee",
+  "main": "./index.js"
+
+}

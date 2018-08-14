@@ -1,0 +1,97 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@remobile/react-native-marquee@^1.0.1",
+        "scope": "@remobile",
+        "escapedName": "@remobile%2freact-native-marquee",
+        "name": "@remobile/react-native-marquee",
+        "rawSpec": "^1.0.1",
+        "spec": ">=1.0.1 <2.0.0",
+        "type": "range"
+      },
+      "/Users/linqin/Work/yiqifei/BIZ"
+    ]
+  ],
+  "_cnpm_publish_time": 1485097964620,
+  "_from": "@remobile/react-native-marquee@>=1.0.1 <2.0.0",
+  "_id": "@remobile/react-native-marquee@1.0.1",
+  "_inCache": true,
+  "_location": "/@remobile/react-native-marquee",
+  "_nodeVersion": "6.3.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-marquee-1.0.1.tgz_1485097964377_0.34885965776629746"
+  },
+  "_npmUser": {
+    "name": "remobile",
+    "email": "42550564@qq.com"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@remobile/react-native-marquee@^1.0.1",
+    "scope": "@remobile",
+    "escapedName": "@remobile%2freact-native-marquee",
+    "name": "@remobile/react-native-marquee",
+    "rawSpec": "^1.0.1",
+    "spec": ">=1.0.1 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/@remobile/react-native-marquee/download/@remobile/react-native-marquee-1.0.1.tgz",
+  "_shasum": "6b58fa5914d2aa5ab1b5626b2d9ac2c681317515",
+  "_shrinkwrap": null,
+  "_spec": "@remobile/react-native-marquee@^1.0.1",
+  "_where": "/Users/linqin/Work/yiqifei/BIZ",
+  "author": {
+    "name": "YunJiang.Fang",
+    "email": "42550564@qq.com"
+  },
+  "bugs": {
+    "url": "https://github.com/remobile/react-native-marquee/issues"
+  },
+  "dependencies": {},
+  "description": "A react-native card list write in js",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "6b58fa5914d2aa5ab1b5626b2d9ac2c681317515",
+    "size": 3344,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/@remobile/react-native-marquee/download/@remobile/react-native-marquee-1.0.1.tgz"
+  },
+  "gitHead": "530bf1691338f46dc8658c4b9db2d273a9053995",
+  "homepage": "https://github.com/remobile/react-native-marquee",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "ios",
+    "android",
+    "marquee",
+    "list",
+    "remobile",
+    "mobile"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "remobile",
+      "email": "42550564@qq.com"
+    }
+  ],
+  "name": "@remobile/react-native-marquee",
+  "optionalDependencies": {},
+  "publish_time": 1485097964620,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/remobile/react-native-marquee.git"
+  },
+  "scripts": {},
+  "version": "1.0.1"
+}
